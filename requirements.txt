@@ -1,0 +1,8 @@
+upsonic
+yfinance
+pandas
+python-dotenv
+anthropic
+streamlit
+plotly
+fastapi
