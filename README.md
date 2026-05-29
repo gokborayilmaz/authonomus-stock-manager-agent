@@ -150,7 +150,3 @@ These are natural language, not slash commands. Just talk to it:
 - "Remove AMZN from my watchlist"
 - "Update all prices"
 - `/reset` to clear conversation history
-
-## License
-
-Apache 2.0
