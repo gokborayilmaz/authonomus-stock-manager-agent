@@ -16,6 +16,9 @@ A fully autonomous agent that:
 
 The agent's behavior is defined entirely in markdown files (skills, personality, instructions). No hardcoded logic for what it does or how it responds.
 
+## Detailed Twitter Article for you to build your own  : https://x.com/GokBoraYlmz/status/2059638130056011877?s=20
+
+
 ## Stack
 
 | Component | Tool |
